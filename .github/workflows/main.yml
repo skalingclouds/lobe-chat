@@ -26,7 +26,7 @@ jobs:
       #uses: XueMoMo/Sync-Fork-action@v1.0.6
       uses: aormsby/Fork-Sync-With-Upstream-action@v2.3
       with:
-        upstream_repository: miurla/morphic
+        upstream_repository: lobehub/lobe-chat
         upstream_branch: main
         target_branch: main
         #git_pull_rebase_config: true
